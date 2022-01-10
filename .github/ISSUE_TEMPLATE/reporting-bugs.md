@@ -10,7 +10,7 @@ assignees: ''
 ## Reporting Bugs
 
 Please file bugs in the [GitHub Issue
-Tracker](https://github.com/syncthing/syncthing/issues). Include at
+Tracker](https://github.com/qefKH3up/BIT608_A2/issues). Include at
 least the following:
 
  - What happened.
@@ -34,15 +34,4 @@ too much information will never get you yelled at. :)
 ## Contributing Code
 
 Every contribution is welcome. If you want to contribute but are unsure
-where to start, any open issues are fair game! See the [Contribution
-Guidelines](https://docs.syncthing.net/dev/contributing.html) for the full
-story on committing code.
-
-## Licensing
-
-All contributions are made available under the same license as the already
-existing material being contributed to. Unless
-otherwise stated this is the MIT License. Please see the LICENSE file for more information.
-
-Regardless of the license in effect, you retain the copyright to your
-contribution.
+where to start, any open issues are fair game!
