@@ -26,7 +26,7 @@ least the following:
 
  - Screenshot if the issue concerns something visible in the GUI.
 
-- Screenshots, console log entries, error messages and error codes where possible and relevant.
+- Console log entries, error messages and error codes where possible and relevant.
 
 If you're not sure whether something is relevant, erring on the side of
 too much information will never get you yelled at. :)
