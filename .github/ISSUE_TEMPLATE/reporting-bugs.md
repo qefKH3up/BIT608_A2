@@ -35,3 +35,11 @@ too much information will never get you yelled at. :)
 
 Every contribution is welcome. If you want to contribute but are unsure
 where to start, any open issues are fair game!
+
+
+## Licensing
+All contributions are made available under the same license as the already
+existing material being contributed to. Unless
+otherwise stated this is the MIT License. Please see the LICENSE file for more information.
+Regardless of the license in effect, you retain the copyright to your
+contribution.
