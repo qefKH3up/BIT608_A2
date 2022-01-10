@@ -22,7 +22,7 @@ least the following:
 
  - The same for other connected devices, where relevant.
 
- -What hardware – CPU, memory and type of storage (SSD or spindle) you are using.
+ - What hardware – CPU, memory and type of storage (SSD or spindle) you are using.
 
  - Screenshot if the issue concerns something visible in the GUI.
 
